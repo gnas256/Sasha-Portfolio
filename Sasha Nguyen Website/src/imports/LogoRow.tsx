@@ -1,11 +1,11 @@
-import imgEzyHouseLogo1 from "figma:asset/f181fc7e8c7aee49a4a283f4a0a6e8a117a8a37b.png";
-import imgImage167 from "figma:asset/e3d1b9c47b1c3d034045512ba0df8922bc39bb6e.png";
-import imgImage168 from "figma:asset/c28ad6b484cc3209cae6fa9becb18cc358855e31.png";
-import imgImage166 from "figma:asset/992451366a5d0e92fdab24705683b4d2c8691205.png";
-import imgImage170 from "figma:asset/b76f953817cbd88775688c2bffa2d25cc71bc782.png";
-import imgImage185 from "figma:asset/d2169fb65ea01c2dc7f2634ef58b4e02db30d9e1.png";
-import imgImage184 from "figma:asset/c8f94bbe370c2e65fe333315ef391f4c950293f6.png";
-import imgImage171 from "figma:asset/811065802d482c0d461cb3009f43a2281ee5221f.png";
+import imgEzyHouseLogo1 from "../assets/f181fc7e8c7aee49a4a283f4a0a6e8a117a8a37b.png";
+import imgImage167 from "../assets/e3d1b9c47b1c3d034045512ba0df8922bc39bb6e.png";
+import imgImage168 from "../assets/c28ad6b484cc3209cae6fa9becb18cc358855e31.png";
+import imgImage166 from "../assets/992451366a5d0e92fdab24705683b4d2c8691205.png";
+import imgImage170 from "../assets/b76f953817cbd88775688c2bffa2d25cc71bc782.png";
+import imgImage185 from "../assets/d2169fb65ea01c2dc7f2634ef58b4e02db30d9e1.png";
+import imgImage184 from "../assets/c8f94bbe370c2e65fe333315ef391f4c950293f6.png";
+import imgImage171 from "../assets/811065802d482c0d461cb3009f43a2281ee5221f.png";
 import { imgImage169 } from "./svg-t7u5t";
 
 function MaskGroup() {

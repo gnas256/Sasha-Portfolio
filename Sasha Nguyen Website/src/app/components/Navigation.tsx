@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router';
-import imgImage from "figma:asset/15bc453d9f2282c06c78b2da534b1a9d528b0d3a.png";
+import imgImage from "../../assets/15bc453d9f2282c06c78b2da534b1a9d528b0d3a.png";
 import { Menu, X, Sun, Moon } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { useTheme } from './ThemeContext';

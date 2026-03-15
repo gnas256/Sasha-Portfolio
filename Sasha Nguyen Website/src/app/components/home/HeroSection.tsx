@@ -1,6 +1,6 @@
 import { ArrowRight, Award, Users, Package } from 'lucide-react';
 import { Link } from 'react-router';
-import imgInnerScreen from "figma:asset/8299b55164ce0ba78b81349df97552077285eb8a.png";
+import imgInnerScreen from "../../../assets/8299b55164ce0ba78b81349df97552077285eb8a.png";
 import { HeroWorldMap } from './HeroWorldMap';
 import { DemoWaveRings } from './DemoWaveRings';
 import { useTheme } from '../ThemeContext';

@@ -1,7 +1,7 @@
 import svgPaths from "./svg-iugm3mk68l";
-import imgBrainParticles from "figma:asset/b5aa5e40945b44af3540c047351e129da10a20b5.png";
-import imgBrainParticles1 from "figma:asset/fd07ff9975419229f5dc4f135049f2ec102ecfd2.png";
-import imgGridBackground from "figma:asset/2627153bd6c2747b446ab056a7520368a3177918.png";
+import imgBrainParticles from "../assets/b5aa5e40945b44af3540c047351e129da10a20b5.png";
+import imgBrainParticles1 from "../assets/fd07ff9975419229f5dc4f135049f2ec102ecfd2.png";
+import imgGridBackground from "../assets/2627153bd6c2747b446ab056a7520368a3177918.png";
 
 function BrainParticles() {
   return (
