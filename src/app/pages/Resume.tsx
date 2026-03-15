@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import { useTheme } from '../components/ThemeContext';
 import { FloatingGradients } from '../components/FloatingGradients';
 import { HeroWorldMap } from '../components/home/HeroWorldMap';
-import imgAvatar from "figma:asset/15bc453d9f2282c06c78b2da534b1a9d528b0d3a.png";
+import imgAvatar from "../../assets/15bc453d9f2282c06c78b2da534b1a9d528b0d3a.png";
 
 export function Resume() {
   const { isDark } = useTheme();
